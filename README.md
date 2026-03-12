@@ -162,7 +162,7 @@ This dashboard enables users to quickly understand major patterns within the sta
 
 ### Live Dashboard
 
-[View Interactive Dashboard](Support_Tickets_SQL)
+[View Interactive Dashboard](https://docs.google.com/spreadsheets/d/1mZKhhVse1ZzLOLsm3oT8avRIJiA7__P4yLZ9YRn7PaU/edit?usp=sharing)
 
 ---
 
