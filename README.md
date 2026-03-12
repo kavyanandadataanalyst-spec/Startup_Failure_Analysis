@@ -1,11 +1,12 @@
 
 # Startup Failure Analysis 📊
 
-### Project Overview:
+### Project Overview
 
 Startups operate in highly uncertain environments, and a significant percentage fail within their first few years. This project analyzes a large dataset of startups to understand key factors influencing startup success and failure, including funding patterns, operational performance, and market dynamics.
 The goal of this analysis is to uncover data-driven insights that help explain why some startups succeed while others fail.
 This project demonstrates the use of SQL for data cleaning and analysis and Google Sheets for dashboard visualization.
+
 --- 
 ### Problem Statement:
 
@@ -141,12 +142,16 @@ Some important findings from the analysis include:
 ### Future Improvements:
 
 Potential future enhancements for this project include:
-Building an interactive dashboard using Power BI or Tableau
-Applying machine learning models to predict startup failure
-Incorporating additional external datasets for deeper analysis
+- Building an interactive dashboard using Power BI or Tableau
+- Applying machine learning models to predict startup failure
+- Incorporating additional external datasets for deeper analysis
+
 ---
 ### Author:
+
 Kavyananda K
+
 Data Analyst | SQL | Python | Data Visualization
 This project was created as part of my data analytics portfolio to demonstrate practical skills in data cleaning, SQL analysis, and dashboard development.
+
 ---
