@@ -158,7 +158,7 @@ This dashboard enables users to quickly understand major patterns within the sta
 
 ## Dashboard Preview
 
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview](docs/Startup_Dashboard.png)
 
 ### Live Dashboard
 
